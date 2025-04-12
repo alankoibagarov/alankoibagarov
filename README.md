@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my personal page on GitHub
+
 <!--
 **alankoibagarov/alankoibagarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
